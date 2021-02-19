@@ -1,0 +1,26 @@
+@charset "UTF-8";
+body {
+    background-image: url(../images/greenbeen.jpg);
+}
+
+body header {
+    width: 768px;
+    height: 250px;
+    background-image: url(../images/header1.png);
+    color: #000000;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+    text-decoration: underline;
+    text-align: center;
+    text-shadow: 0 2px #787878;
+}
+body main {
+    width: 768px;
+    height: 600px;
+    background-color: blue;
+}
+body footer {
+    width: 768px;
+    height: 50px;
+    background-color: orange;
+}

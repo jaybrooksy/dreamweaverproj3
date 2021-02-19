@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../vikingsblog.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/hgy0zfh.css">
+<link rel="stylesheet" href="https://use.typekit.net/xyo4fsc.css">
+<link rel="stylesheet" href="https://use.typekit.net/xyo4fsc.css">
+<!-- TemplateBeginEditable name="head" -->
+
+	<style type="text/css">
+	
+	</style>
+	<!-- TemplateEndEditable -->
+
+</head>
+
+<body>
+	
+<div id="container">
+   <!-- TemplateBeginEditable name="main-header" -->
+	<header></header>
+  <nav>
+	<ul>
+	  <li><a href="../pages/About.html">about</a></li>
+	<li><a href="../pages/blog.html">blog</a></li>
+		<li><a href="../Gallery.html">gallery</a></li>
+		<li><a href="../pages/contact.html">contact</a></li>
+	  </ul>
+	</nav>
+	<!-- TemplateEndEditable -->
+  <aside><h3>This is a Minnesota Vikings fanpage blog. I will explain about different games and what happened in them.</h3>
+	<h3> by Jay Brooks</h3></aside>
+  <!-- TemplateBeginEditable name="main-content" --> <main>
+	<h1> Page Title</h1>
+	 
+	</main>
+	<!-- TemplateEndEditable -->
+  <footer> </footer>
+</div>
+</body>
+</html>
